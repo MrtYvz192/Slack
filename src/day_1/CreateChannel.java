@@ -4,7 +4,7 @@ public class CreateChannel {
     public static void main(String[] args) {
         System.out.println("User is able create channels");
 
-        if(3<5){
+        if(3<5){ // changed on intelliJ
             System.out.println("3 is less than 5");
         }
     }
